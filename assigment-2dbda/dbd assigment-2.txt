@@ -1,0 +1,14 @@
+1) Which field of the Customers table is the primary key?
+->CNUM
+2) What is the 4th column of the Customers table?
+-> rating
+
+3) What is another word for row? For column?
+->column=attributes,key,method.
+->row=tuple,entity,opportunity.
+
+
+
+4) Why isn’t it possible to see the first five rows of a table?
+->unless a column explicitly defines the ordering. Often, a table has some sort of auto-incremented id column, which can be used for this purpose,in the rdbms the rows will be 
+orderd in scatterd manner
